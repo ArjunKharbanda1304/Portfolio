@@ -2,6 +2,7 @@
 :root {
     /* Light Mode (Default) */
     --primary-color: #8B0000; /* Dark Red */
+    
     --primary-color-rgb: 139, 0, 0;
     --secondary-color: #A52A2A; /* Brown */
     --accent-color: #CD5C5C; /* Light Coral */
