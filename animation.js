@@ -5,6 +5,7 @@
 function initializeAOS() {
     // Add data-aos attributes to elements
     const elements = {
+        
         // Hero section animations
         '.hero-content h1': 'fade-right',
         '.hero-content h2': 'fade-right',
